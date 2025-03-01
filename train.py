@@ -281,7 +281,9 @@ def temp(test_data_dir, batch_size, shuffle=False):
 
 
 def main():
-    # train_generator, _ = get_train_data_generator('vt25/', batch_size=32)
+    # Run the below code to train the model.
+    
+    # train_generator, _ = get_train_data_generator('Train_directory', batch_size=32)
     # print(train_generator.class_indices)
     # train_data_dir = 'vt25/'
     # val_split, epochs, batch_size = 0.20, 5, 256
@@ -299,14 +301,13 @@ def main():
     
     # return model, history  # Ensure history is returned
 
-
-    model_exp = load_model('run_20250226-175918_best_model.keras')
+    # Once the model is trained for testing either a group of videos or a single video refer to the below code blocks.
     
-
+    # model_exp = load_model('Model_name.keras')
     # for video in os.listdir('test25/AI'):
     #     if video == '.DS_Store':
     #         continue
-    #     data = temp(f'test25/AI/{video}', 64)
+    #     data = temp(f'Directory', 64)
     #     predictions = model_exp.predict(data)
     #     # print(data)
     #     # print(predictions)
@@ -315,23 +316,20 @@ def main():
     #     else:
     #         print('Fake')
 
-    data = temp('putin/',64)
-    predictions = model_exp.predict(data)
-    print(predictions)
-    print(data.classes)
-    if predictions.mean() > 0.5:
-        print('Real')
-    else:
-        print('Fake')
+    # data = temp('Directory',64)
+    # predictions = model_exp.predict(data)
+    # print(predictions)
+    # print(data.classes)
+    # if predictions.mean() > 0.5:
+    #     print('Real')
+    # else:
+    #     print('Fake')
 
+    # The below code is for testing the accuracy and various parameters of the model.
+    
     # model_exp = load_model('run_20250226-175918_best_model.keras')
     #evaluate_model(model_exp, 'Video_train_img', 64)
     #print(get_classification_report(model_exp, 'Video_train_img'))
-    #print(get_classification_report(model_exp, 'data_test', 64))
-    # # manual testing
-    # model_exp = load_model('run_20250224-234218_best_model.keras')
-    # test_data_dir = 'Video'
-    
     
     return 0
 
