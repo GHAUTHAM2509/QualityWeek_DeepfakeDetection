@@ -86,7 +86,7 @@ Node the file structure should be as follows test_data/images/image1.png.
 
 ## Testing on colab
 if you would like to test the pre-trained models provided or train your on model and test it out you can do so on colab
-- ** https://colab.research.google.com/drive/1T1kYnPkDfwJA5l9C52WdqnLzW1wj64IG?usp=sharing
+- **https://colab.research.google.com/drive/1T1kYnPkDfwJA5l9C52WdqnLzW1wj64IG?usp=sharing
 
 ## Local Model Hosting
 If you would like to host your model locally it can be done using a http server.
@@ -94,8 +94,8 @@ If you would like to host your model locally it can be done using a http server.
 ## Credits & Acknowledgments
 
 This project includes code and concepts from various sources. Below are the references to the original implementations:
-- ** https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb
-- ** https://github.com/DariusAf/MesoNet/blob/master/classifiers.py
+- **https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb
+- **https://github.com/DariusAf/MesoNet/blob/master/classifiers.py
 
 ## License
 This project is open-source and available for modification and enhancement.
