@@ -1,0 +1,1 @@
+# QualityWeek_DeepfakeDedection
