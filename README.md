@@ -18,6 +18,10 @@ Ensure the following libraries are installed:
 pip install tensorflow numpy matplotlib scikit-learn
 ```
 
+## Dataset
+This project uses the [[FaceForensics++ Dataset (C23)]] dataset. You can download it from [[(https://www.kaggle.com/datasets/xdxd003/ff-c23)]]. Ensure the dataset is placed in the correct directory before running the training script.
+
+
 ## Dataset Structure
 The dataset should be organized in the following format:
 ```
