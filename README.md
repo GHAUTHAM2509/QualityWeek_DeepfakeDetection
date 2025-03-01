@@ -82,7 +82,7 @@ Node the file structure should be as follows test_data/images/image1.png.
 
 ## Testing on colab
 if you would like to test the pre-trained models provided or train your on model and test it out you can do so on colab
--- ** https://colab.research.google.com/drive/1T1kYnPkDfwJA5l9C52WdqnLzW1wj64IG?usp=sharing
+- ** https://colab.research.google.com/drive/1T1kYnPkDfwJA5l9C52WdqnLzW1wj64IG?usp=sharing
 
 ## Credits & Acknowledgments
 
