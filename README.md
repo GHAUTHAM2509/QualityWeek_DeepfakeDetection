@@ -1,1 +1,1 @@
-# QualityWeek_DeepfakeDedection
+# todo
