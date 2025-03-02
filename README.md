@@ -93,6 +93,16 @@ If you would like to host your model locally it can be done using a http server.
 
 ## Presentation
 - https://docs.google.com/presentation/d/1642WZimfqrO01h06gIfwA5evEn5gIRNNxaz4pbPJ-iY/edit#slide=id.g33abd7fc750_10_21
+
+## Speakers
+- **Aarjav Jain**
+- **Rishit Shivam** 
+- **Lavanya Jain** 
+- **Navdha Sharma**
+- **Aadhaar Verma**
+- **Adheesh**
+- **Ghautham Arveen**
+- **Ishaan Deepak**
   
 ## Credits & Acknowledgments
 
