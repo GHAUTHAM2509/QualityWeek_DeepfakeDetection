@@ -91,6 +91,9 @@ if you would like to test the pre-trained models provided or train your on model
 ## Local Model Hosting
 If you would like to host your model locally it can be done using a http server.
 
+## Presentation
+- https://docs.google.com/presentation/d/1642WZimfqrO01h06gIfwA5evEn5gIRNNxaz4pbPJ-iY/edit#slide=id.g33abd7fc750_10_21
+  
 ## Credits & Acknowledgments
 
 This project includes code and concepts from various sources. Below are the references to the original implementations:
