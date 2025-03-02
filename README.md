@@ -100,7 +100,7 @@ If you would like to host your model locally it can be done using a http server.
 - **Lavanya Jain** 
 - **Navdha Sharma**
 - **Aadhaar Verma**
-- **Adheesh**
+- **Adheesh Garg**
 - **Ghautham Arveen**
 - **Ishaan Deepak**
   
